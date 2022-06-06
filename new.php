@@ -1,3 +1,3 @@
 <?php
-echo "PHP FROM GIT";
+echo "PHP FROM GIT AND EDITED";
 ?>
